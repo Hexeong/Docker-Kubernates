@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "9a067726d8b73608",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b3af263055c24e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e4cae3be07a66a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter2/2.2 도커 컨테이너 다루기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f567c75894b72f08",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba8506cc340326d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62fde9548049d7e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "025f44ea37f7b02a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1df2d39e6fbb65c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1667e0b96e1b7fb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "11b1914cf520d6ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0712b96a3abfad96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter2/2.2 도커 컨테이너 다루기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cd78908df613097",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter2/2.2 도커 컨테이너 다루기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ef993f61f8fe8c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "166e9a8bfe5c7c97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter2/2.2 도커 컨테이너 다루기.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "9e4cae3be07a66a1",
+  "lastOpenFiles": [
+    "안녕하세요, 도커-쿠버네티스 공부 노트입니다..md",
+    "Chapter2/2.2 도커 컨테이너 다루기.md",
+    "images/image-2.17.png",
+    "images",
+    "Chapter2",
+    "create a link.md"
+  ]
+}
