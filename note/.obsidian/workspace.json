@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1667e0b96e1b7fb0",
@@ -165,9 +166,9 @@
   },
   "active": "568dda1df6b41f8a",
   "lastOpenFiles": [
-    "Chapter2/2.4 Dockerfile.md",
-    "Chapter2/2.5 도커 데몬.md",
     "안녕하세요, 도커-쿠버네티스 공부 노트입니다..md",
+    "Chapter2/2.5 도커 데몬.md",
+    "Chapter2/2.4 Dockerfile.md",
     "Chapter2/2.2 도커 컨테이너 다루기.md",
     "Chapter2/2.3 도커 이미지.md",
     "1번.md",
