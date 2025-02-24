@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter2/2.5 도커 데몬.md",
+                "file": "Chapter3/3.2 스웜 클래식과 도커 스웜 모드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 도커 데몬"
+              "title": "3.2 스웜 클래식과 도커 스웜 모드"
             }
           }
         ]
@@ -166,9 +166,12 @@
   },
   "active": "568dda1df6b41f8a",
   "lastOpenFiles": [
+    "Chapter3/3.1 도커 스웜을 사용하는 이유.md",
+    "Chapter3/3.2 스웜 클래식과 도커 스웜 모드.md",
+    "Chapter2/2.5 도커 데몬.md",
+    "Chapter3",
     "2025-02-19.md",
     "Chapter2/2.2 도커 컨테이너 다루기.md",
-    "Chapter2/2.5 도커 데몬.md",
     "Chapter2/2.3 도커 이미지.md",
     "Chapter2/2.4 Dockerfile.md",
     "안녕하세요, 도커-쿠버네티스 공부 노트입니다..md",
