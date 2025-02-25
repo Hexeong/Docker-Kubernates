@@ -14,3 +14,8 @@
 # Studying Tools
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+>[!IMPORTANT]
+> - [2025.02.25] 도커 데몬까지의 공부 이후, 도커 스웜, 컴포즈, 쿠버네티스의 경우 현재 학생 수준에서 쿠버까지 쓸 일이 없을 것 같아, 일단 먼저 다른 백엔드 공부를 열심히 해서 취업하고 다시 공부하겠습니다.
